@@ -30,8 +30,7 @@
 ---
 
 ## Introduction
-**
-Upper gastrointestinal (GI) tract cancers** pose a significant global health challenge, marked by high morbidity and mortality rates. These cancers are increasingly prevalent among aging populations, with outcomes often varying by gender and ethnicity. Early and accurate prediction of mortality rates can play a critical role in enhancing treatment strategies and improving patient outcomes.
+**Upper gastrointestinal (GI) tract cancers** pose a significant global health challenge, marked by high morbidity and mortality rates. These cancers are increasingly prevalent among aging populations, with outcomes often varying by gender and ethnicity. Early and accurate prediction of mortality rates can play a critical role in enhancing treatment strategies and improving patient outcomes.
 
 This project leverages advanced predictive analytics to address these challenges by developing a **Long Short-Term Memory** (LSTM) neural network model. The model is designed to predict two key health metrics: Crude Mortality Rate (the number of deaths per 100,000 individuals annually) and Survival Rate (the likelihood of survival expressed as a percentage). By utilizing a comprehensive dataset of demographic and temporal factors such as age, sex, ethnicity, race, and year, the model provides robust insights into health outcomes. This study not only examines current trends in upper GI tract cancers but also offers a predictive framework to project future trends, aiding healthcare providers in delivering more effective and personalized care.
 
