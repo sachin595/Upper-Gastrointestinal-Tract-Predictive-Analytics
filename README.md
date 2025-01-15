@@ -1,6 +1,6 @@
 # Upper Gastrointestinal Tract Cancer Predictive Analytics
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hodgkin-lymphoma-lstm.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://upper-gastrointestinal-tract-lstm.streamlit.app/)
 
 ![Research Medical AI](https://img.shields.io/badge/Research-Medical%20AI-green.svg)
 [![License](https://img.shields.io/badge/License-CDC%20Data%20Use-lightgrey)](https://wonder.cdc.gov/DataUse.html)
@@ -142,7 +142,7 @@ These metrics indicate the model's accuracy in predicting both target variables.
 
 The project includes a Streamlit-based diagnostic tool that allows users to input demographic and temporal data to predict Crude Rate and Survival Rate.
 
-- Access the tool here: [Upper Gastrointestinal Tract Cancer Diagnostic Tool](https://hodgkin-lymphoma-lstm.streamlit.app/)
+- Access the tool here: [Upper Gastrointestinal Tract Cancer Diagnostic Tool](https://upper-gastrointestinal-tract-lstm.streamlit.app/)
 - ### Example Output
 ![Diagnostic Tool Screenshot](UGT_result.png)
 
